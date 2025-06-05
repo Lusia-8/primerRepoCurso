@@ -1,0 +1,33 @@
+header {
+  background-color: #ff7700;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: rgb(255, 0, 0);
+  margin: 100px;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 0px;
+  margin: 100x;
+}
+
+main {
+  padding: 10px;
+}
+
+section {
+  margin-bottom: 300px;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
